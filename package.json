@@ -15,6 +15,7 @@
     "@tailwindcss/vite": "^4.0.8",
     "@tanstack/react-query": "^5.67.2",
     "axios": "^1.8.2",
+    "chart.js": "^4.4.8",
     "immer": "^10.1.1",
     "loyality_frontend": "file:",
     "moment": "^2.30.1",
