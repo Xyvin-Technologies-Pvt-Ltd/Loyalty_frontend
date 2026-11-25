@@ -168,8 +168,7 @@ const HowtoGetArabic = ({ link }) => {
                     style={{ backgroundColor: "#434343" }}
                   >
                     <div className="text-sm font-medium text-white">
-                      مضاعف النقاط (للنقاط المكتسبة) مضاعف النقاط (للنقاط
-                      المكتسبة)
+                      مضاعف النقاط (للنقاط المكتسبة)
                     </div>
                     <div className="font-bold text-white">
                       1.1× النقاط المكتسبة
